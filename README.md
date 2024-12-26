@@ -11,13 +11,14 @@ An imaginary insurance company called **_AlphaCare Insurance Solutions (ACIS)_**
 ### Task 2: Data Version Control
 
 ### Task 3: A/B Hypothesis Testing
-    * Accept or reject the following Null Hypotheses: 
-        + There are no risk differences across provinces 
-            - There are no risk differences between zip codes 
-            - There are no significant margin (profit) difference between zip codes 
-            - There are not significant risk difference between Women and Men
-    * **Select Metrics**
-    * **Data Segmentation**
-    * **Statistical Testing**
-    * **Analyze and Report**
+* Accept or reject the following Null Hypotheses: 
+    + There are no risk differences across provinces 
+        - There are no risk differences between zip codes 
+        - There are no significant margin (profit) difference between zip codes 
+        - There are not significant risk difference between Women and Men
+        
+* **Select Metrics**
+* **Data Segmentation**
+* **Statistical Testing**
+* **Analyze and Report**
 
