@@ -19,6 +19,10 @@ pip install matplotlib
 ### Task 1: Project Planning - EDA & Stats
 #### Descriptive Statistics
 This section provides summary statistics for `Total_Claim` and `TotalPremium` across various segments like province and gender(Title).
+* Avg Total Claims by Province
+![Avg Total Claims by Province](https://github.com/mebratuteshale/insurance-analysis/blob/main/screenshoots/totalclaimsbyprovince.png)
+* Avg Total Premiums by Provinve
+![Average premiums by Province](https://github.com/mebratuteshale/insurance-analysis/blob/main/screenshoots/avgpremiumsbyprovince.png)
 #### Visualizations
 Visualize `Total_Claim` and `TotalPremium` distributions across different categories to identify patterns and actionable insights.
 
