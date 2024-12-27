@@ -8,11 +8,14 @@ An imaginary insurance company called **_AlphaCare Insurance Solutions (ACIS)_**
 git clone https://github.com/mebratuteshale/insurance-analysis
 ```
 * Run the following commands separatly on virtual environment to install required packages
-```pip install pandas```
-```pip install numpy```
-```pip install ipykernel```
-```pip install seaborn```
-```pip install matplotlib```
+
+```
+pip install pandas
+pip install numpy
+pip install ipykernel
+pip install seaborn
+pip install matplotlib
+```
 ### Task 1: Project Planning - EDA & Stats
 
 ### Task 2: Data Version Control
