@@ -17,6 +17,11 @@ pip install seaborn
 pip install matplotlib
 ```
 ### Task 1: Project Planning - EDA & Stats
+#### Descriptive Statistics
+This section provides summary statistics for `Total_Claim` and `TotalPremium` across various segments like province and gender(Title).
+#### Visualizations
+Visualize `Total_Claim` and `TotalPremium` distributions across different categories to identify patterns and actionable insights.
+
 
 ### Task 2: Data Version Control
 
