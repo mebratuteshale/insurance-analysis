@@ -3,7 +3,12 @@
 An imaginary insurance company called **_AlphaCare Insurance Solutions (ACIS)_** is committed to developing cutting-edge risk and predictive analytics in the area of car insurance planning and marketing. A data analytics team is tasked to analyse historical insurance data to help optimise the marketing strategy as well as discover "low-risk" targets for which the premium could be reduced, hence an opportunity to attract new clients.
 
 ### Development Environment Setup
-
+* Run the following commands separatly on virtual environment to install required packages
+`pip install pandas`
+`pip install numpy`
+`pip install ipykernel`
+`pip install seaborn`
+`pip install matplotlib` 
 ### Task 1: 
 * Git and GitHub
 * Project Planning - EDA & Stats
