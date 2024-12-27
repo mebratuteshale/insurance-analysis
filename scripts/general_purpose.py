@@ -14,7 +14,7 @@ class InsuranceDataAnalysis:
 
     def descriptive_statistics(self):
         """Generate descriptive statistics grouped by province and gender."""
-        return self.data.groupby(['Province', 'Gender']).agg(
+        return self.data.groupby(['Province', 'Title']).agg(
             Avg_Total_Claim=('TotalClaims', 'mean'),
             Avg_Premium=('TotalPremium', 'mean'),
             Count=('TotalClaims', 'size')
